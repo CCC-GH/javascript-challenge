@@ -2,6 +2,7 @@
  HW14-Intro-To-JavaScript
 
 # JavaScript Homework - JavaScript and DOM Manipulation
+![](static/images/ufo_small.png)  
 
 ## Background
 
