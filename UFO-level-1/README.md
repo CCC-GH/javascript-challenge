@@ -1,6 +1,7 @@
 # javascript-challenge
  HW14-Intro-To-JavaScript
 
+![](static/images/product_small.PNG)  
 
 ### Level 1: Automatic Table and Date Search (Required)
 
