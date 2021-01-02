@@ -2,7 +2,7 @@
 HW14-Intro-To-JavaScript
 
 # JavaScript Homework - JavaScript and DOM Manipulation
-![](static/images/UFO-Level1_small.PNG)  
+![](static/images/UFO-Level1_smaller.PNG)  ![](static/images/UFO-Level2_small.PNG)  
 
 ## Background
 
