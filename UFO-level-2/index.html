@@ -39,10 +39,42 @@
                                                 <label for="date">Enter a Date</label>
                                                 <input class="form-control" id="datetime" type="text" placeholder="xx/xx/xxxx">
                                             </li>
+                                            <li class="filter list-group-item">
+                                                <label for="city">Enter a City</label>
+                                                <input class="form-control" id="city" type="text" placeholder="ex: fresno">
+                                            </li>
+                                            <li class="filter list-group-item">
+                                                <label for="state">Enter a State</label>
+                                                <input class="form-control" id="state" type="text" placeholder="ex: ca">
+                                            </li>                              
+                                            <li class="filter list-group-item">
+                                                <label for="country">Enter a Country</label>
+                                                <input class="form-control" id="country" type="text" placeholder="ex: us">
+                                            </li>                                                          
+                                            <li class="filter list-group-item">
+                                                <label for="shape">Enter a Shape</label>
+                                                <select>
+                                                	<option disabled hidden selected>Select One</option>
+                                                	<option value="cigar">cigar</option>
+                                                	<option value="circle">circle</option>
+                                                	<option value="chevron">chevron</option>
+                                                	<option value="cylinder">cylinder</option>
+                                                	<option value="disk">disk</option>  
+                                                	<option value="fireball">fireball</option>
+                                                	<option value="formation">formation</option>
+                                                	<option value="light">light</option>
+                                                	<option value="sphere">sphere</option>                                                                                                      
+                                                	<option value="teardrop">teardrop</option>
+                                                 	<option value="triangle">triangle</option>
+                                                 	<option value="oval">oval</option>
+                                                    <option value="other">other</option>
+                                                    <option value="unknown">unknown</option>
+                                                </select>
+                                            </li> 
                                         </ul>
-                                    </div>
-                                    <button id="filter-btn" type="button" class="btn btn-default">Apply Filter</button>
-                                    <input type="button" class="btn btn-default" value="Reset Filter" onclick="resetDisplay(this);" />
+                                    	<button id="filter-btn" type="button" class="btn btn-default">Apply Filter</button>
+                                 		<input type="button" class="btn btn-default" value="Reset Filter" onclick="resetDisplay(this);" />
+                               	 	</div>
                                 </form>
                             </div>
                         </div>
