@@ -1,7 +1,7 @@
 # javascript-challenge
  HW14-Intro-To-JavaScript
 
-![](../static/images/UFO-Leve21_small.PNG)  
+![](../static/images/UFO-Leve12_small.PNG)  
 
 ### Level 2: Multiple Search Categories (Optional)
 
